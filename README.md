@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Rafa</h1>
 <h3 align="center">iOS Developer from Zaragoza, Spain</h3>
 
