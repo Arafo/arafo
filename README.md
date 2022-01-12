@@ -5,6 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging in ARKit &amp;amp; SceneKit](https://arbyswift.com/2022/01/12/debugging-in-arkit)
 - [Hello world! 👋](https://arbyswift.com/2021/12/27/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
