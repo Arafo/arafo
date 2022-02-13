@@ -5,8 +5,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Debugging in ARKit &amp;amp; SceneKit](https://arbyswift.com/2022/01/12/debugging-in-arkit)
-- [Hello world! 👋](https://arbyswift.com/2021/12/27/hello-world)
+- [Adding async variant of reduce to Swift collections](https://arbyswift.com/adding-async-variant-of-reduce-to-swift-collections)
+- [Debugging in ARKit &amp;amp; SceneKit](https://arbyswift.com/debugging-in-arkit-and-scenekit)
+- [Hello world! 👋](https://arbyswift.com/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
