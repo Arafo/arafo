@@ -5,6 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why does Xcode 14 deprecate bitcode?](https://arbyswift.com/why-does-xcode-14-deprecate-bitcode)
 - [Adding async variant of reduce to Swift collections](https://arbyswift.com/adding-async-variant-of-reduce-to-swift-collections)
 - [Debugging in ARKit &amp;amp; SceneKit](https://arbyswift.com/debugging-in-arkit-and-scenekit)
 - [Hello world! 👋](https://arbyswift.com/hello-world)
